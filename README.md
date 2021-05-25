@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innerway~
-- 👀 I’m interested in theoretical physics and mathematics and so many interesting things...
-- 🌱 I’m currently learning RUST!
+- 👀 I’m interested in theoretical physics and mathematics and many interesting things...
+- 🌱 I’m currently learning Rust and Haskell!
 - 💞️ I’m looking to collaborate on ... (Sorry, not now~)
 - 📫 How to reach me ... (Sorry, not now~)
 
